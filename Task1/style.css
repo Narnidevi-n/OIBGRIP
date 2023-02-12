@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  background-color:rgb(215, 206, 203);
+}
+.b1{
+  padding: 15px;
+}
+.merge{
+  width: 10%;
+}
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  color:white;
+  font-size: 30px;
+  padding: 10px 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: transparent;
+  box-shadow: inset 2px 3px 5px 1px gray,
+              inset -2px -3px 5px gray;
+}
+.b2{
+  padding: 25px;
+  background: url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 450px;
+  background-position:center;
+}
+
